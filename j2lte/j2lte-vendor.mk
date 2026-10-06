@@ -51,15 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/lib/hw/camera.vendor.exynos5.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.exynos5.so \
     vendor/samsung/j2lte/proprietary/lib/hw/sensors.universal3475.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/sensors.universal3475.so \
     vendor/samsung/j2lte/proprietary/lib/libexynoscameraexternal.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynoscameraexternal.so \
-    vendor/samsung/j2lte/proprietary/lib/libhwjpeg.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libhwjpeg.so \
-    vendor/samsung/j2lte/proprietary/lib/libOpenCv.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOpenCv.so \
-    vendor/samsung/j2lte/proprietary/lib/libcamera_metadata.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcamera_metadata.so \
-    vendor/samsung/j2lte/proprietary/lib/libseccameracore.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libseccameracore.so \
-    vendor/samsung/j2lte/proprietary/lib/libcsc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcsc.so \
-    vendor/samsung/j2lte/proprietary/lib/libexynosutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosutils.so \
-    vendor/samsung/j2lte/proprietary/lib/libexynosgscaler.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosgscaler.so \
-    vendor/samsung/j2lte/proprietary/lib/libexynosscaler.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosscaler.so \
-    vendor/samsung/j2lte/proprietary/lib/libexynosv4l2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosv4l2.so \
     vendor/samsung/j2lte/proprietary/lib/libsec-ril-dsds.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsec-ril-dsds.so \
     vendor/samsung/j2lte/proprietary/lib/libsec-ril.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsec-ril.so \
     vendor/samsung/j2lte/proprietary/vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt \
@@ -159,6 +150,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/vendor/firmware/fimc_is_fd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fd.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/fimc_is_lib_isp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib_isp.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/es305_fw_bypass.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/es305_fw_bypass.bin \
-    vendor/samsung/j2lte/proprietary/vendor/firmware/setfile_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3l2.bin \
-    vendor/samsung/j2lte/proprietary/vendor/firmware/setfile_5e3.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_5e3.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin
