@@ -19,26 +19,26 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/vendor/app/FFFFFFFF000000000000000000000001.drbin:$(TARGET_COPY_OUT_VENDOR)/app/FFFFFFFF000000000000000000000001.drbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/00060308060501020000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/00060308060501020000000000000000.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/07010000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/07010000000000000000000000000000.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/07060000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/07060000000000000000000000000000.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/08130000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/08130000000000000000000000000000.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000004.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000004.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000005.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000005.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff00000000000000000000000a.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000c.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff00000000000000000000000c.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000d.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff00000000000000000000000d.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000f.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff00000000000000000000000f.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000012.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000012.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000013.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000013.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000016.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000016.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000017.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000017.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000019.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000019.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000041.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffff000000000000000000000041.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000004.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffffd00000000000000000000004.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffffd0000000000000000000000a.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/ffffffffd00000000000000000000016.tlbin \
-    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcReegistry/fffffffff0000000000000000000001e.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/00060308060501020000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/00060308060501020000000000000000.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/07010000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/07010000000000000000000000000000.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/07060000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/07060000000000000000000000000000.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/08130000000000000000000000000000.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/08130000000000000000000000000000.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000004.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000004.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000005.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000005.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000a.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000c.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000c.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000d.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000d.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000f.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000f.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000012.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000012.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000013.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000013.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000016.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000016.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000017.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000017.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000019.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000019.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000041.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000041.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000004.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000004.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
+    vendor/samsung/j2lte/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/j2lte/proprietary/vendor/bin/cbd:$(TARGET_COPY_OUT_VENDOR)/bin/cbd \
     vendor/samsung/j2lte/proprietary/vendor/bin/sswap:$(TARGET_COPY_OUT_VENDOR)/bin/sswap \
     vendor/samsung/j2lte/proprietary/etc/plmn_se13.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/plmn_se13.bin \
@@ -51,6 +51,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/lib/hw/camera.vendor.exynos5.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.exynos5.so \
     vendor/samsung/j2lte/proprietary/lib/hw/sensors.universal3475.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/sensors.universal3475.so \
     vendor/samsung/j2lte/proprietary/lib/libexynoscameraexternal.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynoscameraexternal.so \
+    vendor/samsung/j2lte/proprietary/lib/libhwjpeg.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libhwjpeg.so \
+    vendor/samsung/j2lte/proprietary/lib/libOpenCv.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOpenCv.so \
+    vendor/samsung/j2lte/proprietary/lib/libcamera_metadata.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcamera_metadata.so \
+    vendor/samsung/j2lte/proprietary/lib/libseccameracore.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libseccameracore.so \
+    vendor/samsung/j2lte/proprietary/lib/libcsc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcsc.so \
+    vendor/samsung/j2lte/proprietary/lib/libexynosutils.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosutils.so \
+    vendor/samsung/j2lte/proprietary/lib/libexynosgscaler.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosgscaler.so \
+    vendor/samsung/j2lte/proprietary/lib/libexynosscaler.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosscaler.so \
+    vendor/samsung/j2lte/proprietary/lib/libexynosv4l2.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynosv4l2.so \
     vendor/samsung/j2lte/proprietary/lib/libsec-ril-dsds.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsec-ril-dsds.so \
     vendor/samsung/j2lte/proprietary/lib/libsec-ril.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsec-ril.so \
     vendor/samsung/j2lte/proprietary/lib/libcutils_symbol.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcutils_symbol.so \
@@ -149,6 +158,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/vendor/firmware/bcm43438A1_V0055.0244.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43438A1_V0055.0244.hcd \
     vendor/samsung/j2lte/proprietary/vendor/firmware/es305_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/es305_fw.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/fimc_is_fd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fd.bin \
-    vendor/samsung/j2lte/proprietary/vendor/firmware/fimc_is_lib_isp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib_isp.bin.bin \
+    vendor/samsung/j2lte/proprietary/vendor/firmware/fimc_is_lib_isp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib_isp.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/es305_fw_bypass.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/es305_fw_bypass.bin \
+    vendor/samsung/j2lte/proprietary/vendor/firmware/setfile_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3l2.bin \
+    vendor/samsung/j2lte/proprietary/vendor/firmware/setfile_5e3.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_5e3.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin
